@@ -1,4 +1,4 @@
-# SXAdminTool Version 1.0
+# SXAccountManager Version 1.0
     Code Developed by DoktorSAS - Join in Sorex Discord To Report Any BUGS
     Version 1.0
     Description: This is a simple system to manage users who have multiple accounts, this resource provides a very simple 
