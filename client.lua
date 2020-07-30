@@ -123,7 +123,7 @@ function nuiMessage(focus, type, status, buttons)
     SetNuiFocus(focus, focus)
     SendNUIMessage({
         type = type,
-        status = statust
+        status = status
     })
 end
 
